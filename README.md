@@ -1,2 +1,1 @@
-# masar
-nazdar
+# Domácí úkol
